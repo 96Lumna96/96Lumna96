@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Théo Marionnet</h1>
 <h3 align="center">A passionate man from France, whose love A.I. and Dev</h3>
 
-<h3 align="left">This book has changed my life [Les Quatre Accords toltèques: La voie de la liberté personnelle Don Miguel Ruiz](https://www.amazon.fr/Quatre-Accords-tolt%C3%A8ques-libert%C3%A9-personnelle/dp/B0D32M5XRL/ref=asc_df_B0D32M5XRL?tag=bingshoppin0f-21&linkCode=df0&hvadid=79989662252590&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583589128242229&psc=1)</h3>
+This book has changed my life [Les Quatre Accords toltèques: La voie de la liberté personnelle Don Miguel Ruiz](https://www.amazon.fr/Quatre-Accords-tolt%C3%A8ques-libert%C3%A9-personnelle/dp/B0D32M5XRL/ref=asc_df_B0D32M5XRL?tag=bingshoppin0f-21&linkCode=df0&hvadid=79989662252590&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4583589128242229&psc=1)
 
 
 - 🔭 I’m currently working on **Artificial Intelligence**
