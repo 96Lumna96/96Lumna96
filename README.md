@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **theo34mn@gmail.com**
 
-and my favourite song of course [here](https://www.youtube.com/watch?v=fVfnEyLOkrM) , [there](https://www.youtube.com/watch?v=EyKRPKHpzgw) and [elsewhere]([https://youtu.be/_ifJapuqYiU?si=wWtgtUI7J8_9IsIF](https://www.youtube.com/watch?v=ZXc_2w9pjxU))
+and my favourite song of course [here](https://www.youtube.com/watch?v=fVfnEyLOkrM) , [there](https://www.youtube.com/watch?v=EyKRPKHpzgw) and [elsewhere](https://www.youtube.com/watch?v=ZXc_2w9pjxU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
